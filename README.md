@@ -1,8 +1,13 @@
 # Secret-Santa-Game
-Secret Santa Game
 
---Solution Explained--
+---
+Solution Explained
+---
 
---Design details--
+---
+Design details
+---
 
---Instructions to install and run the program and other requirements--
+---
+Instructions to install and run the program and other requirements
+---
