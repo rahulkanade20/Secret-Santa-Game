@@ -1,7 +1,8 @@
 # Secret-Santa-Game
 
-Overview of Solution
+Overview of solution
 ---
+
 
 Design details
 ---
