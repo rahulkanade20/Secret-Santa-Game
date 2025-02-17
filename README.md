@@ -41,7 +41,7 @@ Instructions to install and run the program and other requirements
   - Download the data folder and csv files provided in the source code and save it in the same new folder.
   - Start cmd and navigate to the newly created folder.
   - Run the following command -
-      - java -jar target/SecretSantaGame-1.0-SNAPSHOT.jar data/employees.csv data/employees-previous-santa-info.csv
+      - java -jar SecretSantaGame-1.0-SNAPSHOT.jar data/employees.csv data/employees-previous-santa-info.csv
   - If all instructions are followed correctly a new folder named result will be created and it will have a SecretSantaList.csv file which will include the newly generated secret sant / secret child pairing for each employee.
   - Now you can update the 2 input csv files with your organizations data and follow the same procedure and once done successfully you will find the updated results in the result/SecretSantaList.csv file
 
